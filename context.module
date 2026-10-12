@@ -9,7 +9,7 @@ use Drupal\Core\Render\Markup;
 use Drupal\Core\Routing\RouteMatchInterface;
 use Drupal\Component\Utility\NestedArray;
 use Drupal\context\ContextInterface;
-use Drupal\context\ContextMenuActiveTrail;
+use Drupal\context\ProxyClass\ContextMenuActiveTrail;
 use Drupal\context\Plugin\ContextReaction\Blocks;
 use Drupal\Core\Form\FormStateInterface;
 
